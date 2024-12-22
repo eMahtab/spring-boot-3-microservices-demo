@@ -1,5 +1,6 @@
-package net.mahtabalam.department_service;
+package net.mahtabalam.department.client;
 
+import net.mahtabalam.department.model.Employee;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.service.annotation.GetExchange;
 import org.springframework.web.service.annotation.HttpExchange;

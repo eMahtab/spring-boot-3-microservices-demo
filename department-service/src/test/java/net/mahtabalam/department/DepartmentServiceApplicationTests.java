@@ -1,4 +1,4 @@
-package net.mahtabalam.department_service;
+package net.mahtabalam.department;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

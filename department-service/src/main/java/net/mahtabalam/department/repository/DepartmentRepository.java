@@ -1,5 +1,6 @@
-package net.mahtabalam.department_service;
+package net.mahtabalam.department.repository;
 
+import net.mahtabalam.department.model.Department;
 import org.springframework.stereotype.Repository;
 
 import java.util.ArrayList;

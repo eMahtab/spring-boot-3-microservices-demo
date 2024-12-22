@@ -1,5 +1,7 @@
-package net.mahtabalam.employee_service;
+package net.mahtabalam.employee.controller;
 
+import net.mahtabalam.employee.model.Employee;
+import net.mahtabalam.employee.repository.EmployeeRepository;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

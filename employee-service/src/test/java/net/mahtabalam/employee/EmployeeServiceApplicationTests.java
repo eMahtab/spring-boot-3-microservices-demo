@@ -1,4 +1,4 @@
-package net.mahtabalam.employee_service;
+package net.mahtabalam.employee;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

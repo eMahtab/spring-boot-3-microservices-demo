@@ -1,4 +1,4 @@
-package net.mahtabalam.department_service;
+package net.mahtabalam.department.model;
 
 import java.util.ArrayList;
 import java.util.List;

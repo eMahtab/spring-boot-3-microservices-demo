@@ -1,4 +1,4 @@
-package net.mahtabalam.employee_service;
+package net.mahtabalam.employee.model;
 
 public class Employee {
     private Long id;

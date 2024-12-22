@@ -1,4 +1,4 @@
-package net.mahtabalam.department_service;
+package net.mahtabalam.department;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

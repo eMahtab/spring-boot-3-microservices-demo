@@ -1,5 +1,8 @@
-package net.mahtabalam.department_service;
+package net.mahtabalam.department.controller;
 
+import net.mahtabalam.department.model.Department;
+import net.mahtabalam.department.repository.DepartmentRepository;
+import net.mahtabalam.department.client.EmployeeClient;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

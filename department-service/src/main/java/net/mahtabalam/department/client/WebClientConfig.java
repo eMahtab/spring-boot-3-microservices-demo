@@ -1,4 +1,4 @@
-package net.mahtabalam.department_service;
+package net.mahtabalam.department.client;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cloud.client.loadbalancer.reactive.LoadBalancedExchangeFilterFunction;

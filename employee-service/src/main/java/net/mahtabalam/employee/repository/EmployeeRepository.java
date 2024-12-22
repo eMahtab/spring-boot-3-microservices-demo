@@ -1,5 +1,6 @@
-package net.mahtabalam.employee_service;
+package net.mahtabalam.employee.repository;
 
+import net.mahtabalam.employee.model.Employee;
 import org.springframework.stereotype.Repository;
 
 import java.util.ArrayList;
