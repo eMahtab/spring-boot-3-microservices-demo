@@ -1,4 +1,4 @@
-## Microservices demo with Spring Boot 3.4.2 and Spring Framework 6.x
+## Microservices demo with Spring Boot 3.4.1 and Spring Framework 6.x
 
 This microservices demo is based on https://www.youtube.com/watch?v=HFl2dzhVuUo , this demo was tested with Java 17, Spring Boot 3.4.1 and Spring 6.x , you would need to run [Zipkin](https://zipkin.io/pages/quickstart) before running the microservices inside this repo e.g. department-service, employee-service
 
